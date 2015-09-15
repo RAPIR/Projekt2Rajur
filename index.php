@@ -49,7 +49,7 @@
                     <td>$149.99</td>
                     <td>from $112</td>
                 </tr>
-        </table>
+        </table><!--tabeli lõpp-->
 
 
 
