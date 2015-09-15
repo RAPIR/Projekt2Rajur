@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
         </head>
         <body>
-<h1>Smartwatch</h1>
+<h1>SMARTWATCH</h1>
     <p>On this site you will be able to find some information about smartwatches</p>
         <br>
 <h5>Between all the takeovers, Google has still found enough time to develop its own smartwatch together with LG.</h5>
@@ -40,14 +40,14 @@
                 <tr>
                     <td>Features</td>
                     <td>Size: 42mm</td>
-                    <td></td>
+                    <td>Google Voice recognition; 1.2 GHz processor, 4GB of onboard storage, and 512MB of RAM</td>
                     <td>Packs in GPS connectivity; sporty look</td>
                 </tr>
                 <tr>
                     <td>Price</td>
                     <td>$349</td>
                     <td>$149.99</td>
-                    <td></td>
+                    <td>from $112</td>
                 </tr>
         </table>
 
