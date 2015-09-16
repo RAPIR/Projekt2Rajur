@@ -1,9 +1,44 @@
 h1 {
-    color: blue;
+    color: white;
 }
 
 h3 {color: blue;
 }
 
-table {background-color: #F5F5F5;
+td, th {
+    background-color: #F5F5F5;
 }
+
+table {
+    border: 1px solid black;
+}
+
+h5 {font-weight: normal;
+    color: black;
+
+}
+
+body {
+    background-image: url("img/bg.jpg");
+}
+
+table {
+    background-color: aqua;
+}
+
+.wrapper {
+    width: 1100px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 10px;
+}
+
+header {
+    background-image: url("img/bgheader.jpg");
+}
+
+.intro{
+    color: white;
+}
+
