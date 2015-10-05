@@ -42,3 +42,7 @@ header {
     color: white;
 }
 
+p {
+    text-decoration: overline;
+    font-family: Times New Roman;
+}
