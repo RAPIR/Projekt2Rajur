@@ -11,6 +11,34 @@ td, th {
 
 table {
     border: 1px solid black;
+    border-bottom: dashed;
+    border-bottom-color: blue;
+    border-bottom-left-radius: 34px;
+    border-bottom-right-radius: 66px;
+    border-bottom-style: dashed;
+    border-bottom-width: inherit;
+    border-color: transparent;
+    border-image: none;
+    border-image-outset: 66px;
+    border-image-repeat: round;
+    border-image-slice: 44;
+    border-left: dashed;
+    border-left-color: #F5F5F5;
+    border-left-style: double;
+    border-left-width: medium;
+    border-radius: inherit;
+    border-right: dotted;
+    border-right-color: antiquewhite;
+    border-right-style: groove;
+    border-right-width: thick;
+    border-style: inset;
+    border-top: groove;
+    border-top-color: azure;
+    border-top-left-radius: 100%:
+    border-top-right-radius: 44px;
+    border-top-style: inherit;
+    border-top-width: 44px;
+    border-width: medium;
 }
 
 h5 {font-weight: normal;

@@ -1,8 +1,8 @@
 <!DOCTYPE>
     <html>
         <head>
-            <title>Kıikide tag'ide projekt</title>
             <link rel="stylesheet" type="text/css" href="stylesheet.css">
+            <title>Kıikide tag'ide projekt</title>
         </head>
         <body>
             <div class="wrapper">
@@ -38,16 +38,18 @@
                                 </h4>
 
                             <dd>
-                                <td>Apple Watch is good, but better suited on the
+                                <td>
+                                    <span>Apple Watch is good, but better suited on the
                                 wrists of early adopters and boutique shop
                                 regulars. It's convenient but there's a learning
                                 curve you have to overcome and a high price that
-                                some people won't be able to get around.</td>
+                                some people won't be able to get around.</span>
+                                </td>
                             </dd>
                             <td>
-                                <s>The Gear Live has a clean metal body, more features for the price than the LG watch,
+                                <sub>The Gear Live has a clean <u>metal body</u>, more features for the price than the LG watch,
                                 works with many Android phones (4.3 or later), has impressive Google Voice recognition,
-                                and could have an interesting variety of apps sooner than later. Terrible battery life;
+                                and could have an <sub>interesting variety</sub> of apps sooner than later. Terrible battery life;
                                 a display that doesn't work in bright sunlight; a strange card-based notification system
                                 that doesn't always pop up with the info you want; annoying snap-on charger that's not easy to attach.</s>
                             </td>
@@ -61,7 +63,9 @@
                         </tr>
                         <tr>
                             <td>Features</td>
-                            <td>Size: 42mm</td>
+                            <td>
+                                <param>Size: 42mm</param>
+                            </td>
                             <td>Google Voice recognition; 1.2 GHz processor, 4GB of onboard storage, and 512MB of RAM</td>
                             <td>Packs in GPS connectivity; sporty look</td>
                         </tr>
@@ -74,6 +78,11 @@
                     </table><!--tabeli lıpp-->
                     </main>
                     <hr>
+                    <audio controls>
+                        <source src="https://www.youtube.com/watch?v=LwpJjYxl3Gw" type="audio/ogg">
+
+                    </audio>
+
                     <dl>
                         <i>
                         <dt>Tea</dt>
@@ -85,18 +94,22 @@
                     <article>
                         <del>
                         <blockquote cite="http://www.ico.org/">
+                            <wbr>
                         <mark>
-                            <meta>The International Coffee Organization (ICO) is the main intergovernmental organization for coffee,
+                            <meta>
+                            <small>The International Coffee Organization (ICO) is the main intergovernmental organization for coffee,
                         bringing together <abbr>exporting<abbr/> and importing Governments to tackle the challenges facing the world coffee
                         sector through international cooperation. Its Member Governments represent 95% of world coffee production
                         and 83% of world consumption. - See more at: http://www.ico.org/mission07_e.asp?section=About_Us#sthash.3mcNolOb.dpuf
-                        </meta>
+                        </small></meta>
                         </mark>
                     </blockquote>
                         </del>
                     </article>
                     <q>
-                        <S‰‰sta vett! Joo ılut!
+                        <ins>
+                            <p>S‰‰sta vett! Joo ılut!</p>
+                        </ins>
                     </q>
                     <p>The glass is either...</p>
                         <bdi>
@@ -104,11 +117,11 @@
                         </bdi>
                     <ins>Half- full</ins>
                     <form>
-                        <textarea rows="4" cols="50">Codecademy is an education company.
+                        <textarea rows="4" cols="50">
+                            <sup>Codecademy is an education company.
                         But not one in the way you might think. We're committed to building
                         the best learning experience inside and out, making Codecademy the best
-                        place for our team to learn, teach, and create the online learning experience of the future.
-                        </textarea>
+                        place for our team to learn, teach, and create the online learning experience of the future.</sup></textarea>
                         <menu>
                             <ol>
                             <li>Javascript</li>
@@ -128,6 +141,7 @@
                         <code>Posted by: Rajur Hint</code>
                         </h2>
                     </p>
+                    <time>22.05.1989 10:00 pm</time>
                     <address>Send me a letter: <a href="mailto:rajur.hint@khk.ee">Rajur Hint</a>
                     <br>
                     <p>Or visit my website:</p>
@@ -136,3 +150,4 @@
                 </footer>
             </div>
 </body>
+</html>
