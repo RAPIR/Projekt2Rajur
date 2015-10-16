@@ -1,5 +1,6 @@
 h1 {
     color: white;
+    font-face: inherit;
 }
 
 h3 {color: blue;
@@ -10,13 +11,45 @@ td, th {
 
 }
 
+animation {
+    animation-delay: unset;
+    animation-direction: inherit;
+    animation-duration: unset;
+    animation-iteration-count: inherit;
+    animation-name: inherit;
+    animation-play-state: initial;
+    animation-timing-function: initial;
+    display: inline;
+    align-self: baseline;
+}
+
+transition {
+    transition-property: auto;
+    transition-duration: unset;
+    transition-timing-function: initial;
+    transition-delay: inherit;
+}
+
+flex {
+    flex-direction: left;
+    flex-flow: row; 
+    flex-min-width: unset;
+    flex-grow: initial;
+    flex-shrink: 1px;
+}
+
 col {
+    column-width: 56px;
     column-count: auto;
     column-fill: auto;
     column-gap: initial;
     column-rule-color: green;
     column-rule-style: double;
     column-rule-width: 89px;
+}
+
+backface {
+    backface-visibility: initial;
 }
 
 datalist {
@@ -27,6 +60,7 @@ datalist {
     bottom: auto;
     clip: initial;
     left: 92px;
+    list-style-type: katakana-iroha;
 
 }
 

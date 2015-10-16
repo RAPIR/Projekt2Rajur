@@ -26,6 +26,7 @@
                     <table border="1"><!--tabeli algus-->
                             <tr>
                                 <colgroup>
+                                    <backface>Yolo</backface>
                             <th></th>
                             <th>The basic Apple Watch</th>
                             <th>Samsung Gear Live</th>
@@ -46,6 +47,7 @@
                                 some people won't be able to get around.</span>
                                 </td>
                             </dd>
+                            <transition>Lolololol</transition>
                             <col>
                             <td>
                                 <sub>The Gear Live has a clean <u>metal body</u>, more features for the price than the LG watch,
@@ -76,8 +78,12 @@
                             <td>$149.99</td>
                             <td>from $112</td>
                         </tr>
+                        <flex>Tere Mama</flex>
                     </table><!--tabeli lõpp-->
                     </main>
+                    <script>
+                        var = 8;
+                    </script>
                     <hr>
                     <audio controls>
                         <source src="https://www.youtube.com/watch?v=LwpJjYxl3Gw" type="audio/ogg">
@@ -95,6 +101,11 @@
                     <article>
                         <del>
                             <datalist>234</datalist>
+                            <columns>
+                                <p>
+                                    Ma ei tea
+                                </p>
+                            </columns>
                         <blockquote cite="http://www.ico.org/">
                             <wbr>
                             <h6>Otsi lolli, kes ei kardaks kolli</h6>
@@ -213,6 +224,18 @@
                         </bdi>
                     <ins>Half- full</ins>
                     <form>
+                        <base>
+                        <area>
+                        <ul>
+                            <li>MMMMMMM</li>
+                        </ul>
+                        <embed>Targutaja</embed>
+                        <pre>Kas alustame?</pre>
+                        <hyphens>
+                            <track>
+                            <b>Maailma suurim loom</b>
+                                <style>Masohhism</style>
+                                <keyframes>Yoolololo</keyframes>
                         <textarea rows="4" cols="50">
                             <sup>Codecademy is an education company.
                         But not one in the way you might think. We're committed to building
