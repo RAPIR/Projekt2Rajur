@@ -46,6 +46,7 @@
                                 some people won't be able to get around.</span>
                                 </td>
                             </dd>
+                            <col>
                             <td>
                                 <sub>The Gear Live has a clean <u>metal body</u>, more features for the price than the LG watch,
                                 works with many Android phones (4.3 or later), has impressive Google Voice recognition,
@@ -93,9 +94,104 @@
                     </dl>
                     <article>
                         <del>
+                            <datalist>234</datalist>
                         <blockquote cite="http://www.ico.org/">
                             <wbr>
+                            <h6>Otsi lolli, kes ei kardaks kolli</h6>
+                            <audio>http://digg.com/video/route-33-california-scenic</audio>
+                            <button>kliki</button>
+                            <dialog>teretere</dialog>
+                            <fieldset>head aega</fieldset>
+                            <animation>http://digg.com/video/route-33-california-scenic</animation>
+                            <video>http://digg.com/video/route-33-california-scenic</video>
+                            <perspective>mine pekki :)</perspective>
+                            <aside>TSehh</aside>
+                            <bdo>
+
+                            </bdo>
+                                <canvas>Ops</canvas>
+                                <caption>
+                                    http://digg.com/video/route-33-california-scenic
+                                </caption>
+                                    <dfn>
+                                        Joppaidii
+                                    </dfn>
+                            <figcaption>
+                                http://digg.com/video/route-33-california-scenic
+                            </figcaption>
+                                        <figure>Phõhh</figure>
+                                    <input>
+                                    <kbd>
+                                        <keygen>
+                                            Halb
+                                        </keygen>
+                                            <label>
+                                                Hea
+                                            </label>
+                                                <legend>
+                                                   Hmmm
+                                                </legend>
+                                                    <map>
+                                                     Prr
+                                                    </map>
+                                                        <meter>
+                                                         Mjee
+                                                        </meter>
+                                                            <nav>
+                                                              Tss
+                                                            </nav>
+                                                                <noscript>
+                                                                 KKKK
+                                                                </noscript>
+                                                                    <object>
+                                                                     KPO
+                                                                    </object>
+                                                                        <optgroup>
+                                                                        OOO
+                                                                        </optgroup>
+                                                                            <option>
+                                                                            Lalalala- Lololo
+                                                                            </option>
+                                                                                <output>
+                                                                                    Khkkhm
+                                                                                </output>
+                            <progress>
+                                Gennadi
+                            </progress>
+                                <samp>
+                                    Kormoran
+                                </samp>
+                                    <select>
+                                        Hoho-ho
+                                    </select>
+                                        <small>
+                                            Kastrul
+                                        </small>
+                                            <source>
+                                            <span>Kalliskivivärviline
+
+                                            </span>
+                                                <strong> lalalalala</strong>
+                                                    <sub>
+
+                                                    </sub>
+                                                        <summary>heiheihei</summary>
+                                                            <sup>
+                                                                Kollane kass
+                                                            </sup>
+
+                                                                <table>
+                                                                    <tbody>
+                                                                <thead>hahaha</thead>
+                                                                </tbody>
+                                                                <tfoot>
+                                                                Hei sina seal
+                                                                </tfoot>
+                                                                </table>
+
                         <mark>
+                            Kapsas on suur ja ümmargune
+                        </mark>
                             <meta>
                             <small>The International Coffee Organization (ICO) is the main intergovernmental organization for coffee,
                         bringing together <abbr>exporting<abbr/> and importing Governments to tackle the challenges facing the world coffee

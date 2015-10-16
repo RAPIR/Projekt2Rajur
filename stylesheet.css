@@ -7,6 +7,51 @@ h3 {color: blue;
 
 td, th {
     background-color: #F5F5F5;
+
+}
+
+col {
+    column-count: auto;
+    column-fill: auto;
+    column-gap: initial;
+    column-rule-color: green;
+    column-rule-style: double;
+    column-rule-width: 89px;
+}
+
+datalist {
+
+    list-style: circle;
+    list-type: armenian;
+    box-decoration-break: clone;
+    bottom: auto;
+    clip: initial;
+    left: 92px;
+
+}
+
+perspective {
+    perspective-origin: right;
+    transform-origin: center;
+    transform-style: initial;
+    transition: inherit;
+    outline: inset;
+    outline-color: red;
+    outline-offset: 20px;
+    outline-style: solid;
+    outline-width: thick;
+    resize: both;
+    text-overflow: clip;
+    break-after: auto;
+    break-before: left;
+    break-inside: auto;
+    page-break-after: always;
+    page-break-before: avoid;
+    page-break-inside: inherit;
+    filter: none;,
+    mask: auto;
+    track: auto;
+    param: inherit;
 }
 
 table {
@@ -39,6 +84,20 @@ table {
     border-top-style: inherit;
     border-top-width: 44px;
     border-width: medium;
+    border-image-source: none;
+    border-image-width: auto;
+    clear: both;
+    float: left;
+    vertical-align: middle;
+    unicode-bidi: embed;
+    border-collapse: separate;
+    border-spacing: inherit;
+    caption-side: bottom;
+    empty-cells: hide;
+    table-layout: fixed;
+    counter-increment: inherit;
+
+
 }
 
 h5 {font-weight: normal;
@@ -60,6 +119,29 @@ table {
     background-color: white;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     padding: 10px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: inherit;
+    background-clip: border-box;
+    background-origin: border-box;
+    background-size: auto;
+    margin-bottom: auto:
+    margin-left: 55px;
+    margin-right: 49px;
+    margin-top: 88px;
+    max-height: 100px;
+    max-width: 67px;
+    min-height: 44px;
+    min-width: initial;
+    overflow: hidden;
+    overflow-x: scroll;
+    overflow-y: visible;
+    padding-bottom: 100%;
+    padding-left: 90px;
+    padding-right: 77px;
+    padding-top: 100%;
+    position: absolute;
+    visibility: collapse;
 }
 
 header {
@@ -68,9 +150,54 @@ header {
 
 .intro{
     color: white;
+    counter-reset: inherit;
 }
 
 p {
     text-decoration: overline;
     font-family: Times New Roman;
+    z-index: auto;
+    align-content: flex-start;
+    align-items: baseline;
+    flex: auto;
+    flex-basis: inherit;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    hanging-punctuation: force-end;
+    align-content: center;
+    letter-spacing: normal;
+    line-break: normal;
+    line-height: 77px;
+    overflow-wrap: normal;
+    tab-size: 99px;
+    text-align: start;
+    text-align: start;
+    text-combine-upright: unset;
+    text-indent: each-line;
+    text-justify: inter-word;
+    text-transform: lowercase;
+    white-space: nowrap;
+    word-break: normal;
+    word-spacing: 80px;
+    word-wrap: normal;
+    text-decoration-color: aquamarine;
+    text-shadow: #F5F5F5;
+    font-feature-settings: on;
+    font-kerning: auto;
+    font-size: larger;
+    font-size-adjust: none;
+    font-style: italic;
+    font-variant: annotation;
+    direction: ltr;
+    list-style: armenian;
+    list-style-image: linear-gradient;
+    list-style-position: inside;
+    box-sizing: border-box;
+    content: no-close-quote;
+    cursor: auto;
+    quotes: inherit;
+    opacity: 1;
+
+
+
 }
