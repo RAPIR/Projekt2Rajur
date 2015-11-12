@@ -22,7 +22,7 @@
                     <img src="http://sproutmoney.com/files/2014/02/smartwatch.png"/>
                     <hr>
                     <main>
-                        <var konn="konn">
+                        <var kahepaikne="konn">
 
                         <div class="wrapper">
                             <p>Hey</p>
