@@ -5,15 +5,15 @@
             <title>Kõikide tag'ide projekt</title>
         </head>
         <body>
-            <div class="wrapper">
                 <header>
                     <h1>
                         <cite>
                             <em>SMARTWATCH</em>
                         </cite/>
                     </h1>
-                    <p class="intro">Hello! My name is Rajur and I gathered here some information about smartwatches. It is an interesting toy but is it still worth to be purchased?</p>
+                    <p class="intro">Hello! My name is Rajur!</p>
                 </header>
+
                 <br>
                 <section>
                     <h5>
@@ -22,6 +22,14 @@
                     <img src="http://sproutmoney.com/files/2014/02/smartwatch.png"/>
                     <hr>
                     <main>
+                        <var konn="konn">
+
+                        <div class="wrapper">
+                            <p>Hey</p>
+
+                            <s>tartu</s>
+                                <order>kord</order>
+                    </div>
                     <h3>Smartwatch review</h3>
                     <table border="1"><!--tabeli algus-->
                             <tr>
@@ -115,7 +123,7 @@
                             <fieldset>head aega</fieldset>
                             <animation>http://digg.com/video/route-33-california-scenic</animation>
                             <video>http://digg.com/video/route-33-california-scenic</video>
-                            <perspective>mine pekki :)</perspective>
+                            <perspective>taskulamp</perspective>
                             <aside>TSehh</aside>
                             <bdo>
 
@@ -267,6 +275,6 @@
                     <a href="https://sites.google.com/a/khk.ee/rajurh/"><abbr title="Rajur Hint">RH</abbr></a>
                         <details>Postikood</details>
                 </footer>
-            </div>
+
 </body>
 </html>

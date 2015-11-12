@@ -1,9 +1,22 @@
+@keyframes mymove {
+    from {top: 0px;}
+    to {top: 200px;}
+}
+
+@font-face {
+    font-family: MyHelvetica;
+    src: local("Helvetica Neue"),
+    local("HelveticaNeue");
+}
+
 h1 {
     color: white;
     font-face: inherit;
+    font-family: MyHelvetica, sans-serif;
 }
 
-h3 {color: blue;
+h3 {
+    color: blue;
 }
 
 td, th {
@@ -32,7 +45,7 @@ transition {
 
 flex {
     flex-direction: left;
-    flex-flow: row; 
+    flex-flow: row;
     flex-min-width: unset;
     flex-grow: initial;
     flex-shrink: 1px;
@@ -83,7 +96,7 @@ perspective {
     page-break-before: avoid;
     page-break-inside: inherit;
     filter: none;,
-    mask: auto;
+mask : auto;
     track: auto;
     param: inherit;
 }
@@ -113,8 +126,7 @@ table {
     border-style: inset;
     border-top: groove;
     border-top-color: azure;
-    border-top-left-radius: 100%:
-    border-top-right-radius: 44px;
+    border-top-left-radius: 10%: border-top-right-radius : 44 px;
     border-top-style: inherit;
     border-top-width: 44px;
     border-width: medium;
@@ -131,10 +143,10 @@ table {
     table-layout: fixed;
     counter-increment: inherit;
 
-
 }
 
-h5 {font-weight: normal;
+h5 {
+    font-weight: normal;
     color: black;
 
 }
@@ -148,19 +160,18 @@ table {
 }
 
 .wrapper {
-    width: 1100px;
-    margin: 0 auto;
+    width: 100px;
+    margin: 5%;
     background-color: white;
-    box-shadow: 0 0 10px rgba(0,0,0,0.5);
-    padding: 10px;
-    background-attachment: fixed;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 30px;
+    background-attachment: inherit;
     background-position: center;
     background-repeat: inherit;
     background-clip: border-box;
     background-origin: border-box;
     background-size: auto;
-    margin-bottom: auto:
-    margin-left: 55px;
+    margin-bottom: auto: margin-left : 55 px;
     margin-right: 49px;
     margin-top: 88px;
     max-height: 100px;
@@ -170,19 +181,19 @@ table {
     overflow: hidden;
     overflow-x: scroll;
     overflow-y: visible;
-    padding-bottom: 100%;
+    padding-bottom: 2%;
     padding-left: 90px;
     padding-right: 77px;
-    padding-top: 100%;
-    position: absolute;
-    visibility: collapse;
+    padding-top: 2%;
+    position: relative;
+    visibility: visible;
 }
 
 header {
     background-image: url("img/bgheader.jpg");
 }
 
-.intro{
+.intro {
     color: white;
     counter-reset: inherit;
 }
@@ -231,7 +242,5 @@ p {
     cursor: auto;
     quotes: inherit;
     opacity: 1;
-
-
 
 }
